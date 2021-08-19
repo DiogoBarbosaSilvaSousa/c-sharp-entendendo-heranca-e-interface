@@ -12,6 +12,7 @@ namespace ByteBank.Funcionarios
         {
 
             Console.WriteLine("Criando Auxiliar");
+            Console.WriteLine("");
         }
 
         public override void AumentarSalario()

@@ -12,6 +12,7 @@ namespace ByteBank.Funcionarios
         {
 
             Console.WriteLine("Criando Gerente de Conta");
+            Console.WriteLine("");
         }
 
         public override void AumentarSalario()

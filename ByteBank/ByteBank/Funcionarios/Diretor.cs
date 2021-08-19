@@ -12,6 +12,7 @@ namespace ByteBank.Funcionarios
         {
 
             Console.WriteLine("Criando Diretor");
+            Console.WriteLine("");
         }
 
         public override void AumentarSalario()
